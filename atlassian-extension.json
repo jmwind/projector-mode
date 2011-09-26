@@ -1,0 +1,10 @@
+{
+	"key": 			"projector-mode",
+	"name":			"Projector Mode",
+	"description":	"View Confluence pages on a projector!",
+	"version":		"2",
+	
+	"vendor": {	"name": "Mike Cannon-Brookes",
+			     "url": "http://example.com/extension-homepage.html",
+		       "email": "mike@atlassian.com" }
+}

@@ -1,0 +1,8 @@
+[
+    {   "section" : "system.content.action/secondary",
+        "label"   : "Projector Mode",
+        "url"     : "javascript: return false;",
+        "cssName" : "projector-mode-web-item",
+		"tooltip" : "Enter Projector Mode ( type 'shift+x' )",
+        "weight"  : 40}
+]
